@@ -10,6 +10,9 @@ MyDocs is a collaborative document editor designed to facilitate real-time editi
 - Quill.js Editor: Offers a feature-rich text editor with advanced formatting options.
 - Live video and image upload: Users can directly upload and embed live videos and images into documents.
 - MERN stack backend: Utilizes MongoDB, Express.js, React.js, and Node.js for seamless integration and scalability.
+![Screenshot (298)](https://github.com/Ashishksaini/Mydocs/assets/73321601/49a38c7d-a8b9-418e-9638-30597233aede)
+![Screenshot (299)](https://github.com/Ashishksaini/Mydocs/assets/73321601/6a31f458-70e0-4876-ae6f-055973a3ebcd)
+![Screenshot (297)](https://github.com/Ashishksaini/Mydocs/assets/73321601/f94c2481-67e6-413e-b52d-b0b20010a00f)
 
 ## Installation
 
