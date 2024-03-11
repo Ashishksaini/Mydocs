@@ -19,7 +19,7 @@ MyDocs is a collaborative document editor designed to facilitate real-time editi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/mydocs.git
+git clone https://github.com/Ashishksaini/MyDocs.git
 ```
 
 2. Navigate to the project directory:
